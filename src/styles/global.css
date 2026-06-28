@@ -83,3 +83,18 @@ h1 {
     margin: 0 auto;
 
 }
+
+.tags {
+  display: flex;
+  flex-wrap: wrap
+}
+
+.tag {
+  margin-bottom: 10px;
+  margin-right: 6px;
+  padding: 3px 12px 5px 24px;
+  background-color: #e6e0cd;
+  border-radius: 15px;
+  font-size: 0.95em
+
+}
